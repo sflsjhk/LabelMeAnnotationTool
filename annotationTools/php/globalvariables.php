@@ -6,4 +6,4 @@ if (!$username){
    $username = $_COOKIE["username"];
 }
 
-$TOOLHOME = "LM_TOOL_HOME";
+$TOOLHOME = "/Users/jackj/Desktop/DoubtNut/source_codes/LabelMeAnnotationTool/";
